@@ -4,7 +4,7 @@ Validforms is a cutting-edge project designed to revolutionize form validation i
 ## Installation
 Implement it via cdn at the bottom of your body.
 ```html
-<script src="https://raw.githubusercontent.com/DuckyStudios/validforms/master/validforms.js"></script>
+<script src="https://cdn.dcky.org/deliver/6-validforms"></script>
 ```
 
 ## Usage
